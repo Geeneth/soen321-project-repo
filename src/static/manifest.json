@@ -1,0 +1,27 @@
+{
+  "name": "PrivacyBrief",
+  "description": "Chrome Extension for Analyzing Privacy Policies. SOEN321",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "icons": {
+    "16": "PrivacyBriefLogo.png",
+    "48": "PrivacyBriefLogo.png",
+    "128": "PrivacyBriefLogo.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "React Extension",
+    "default_icon": "PrivacyBriefLogo.png"
+  },
+  "permissions": ["activeTab", "scripting", "storage"],
+  "options_page": "options.html",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["contentScript.js"]
+    }
+  ]
+}
