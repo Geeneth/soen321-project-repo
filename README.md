@@ -3,6 +3,8 @@
 
 https://github.com/user-attachments/assets/7cf12476-2a98-4069-bcdc-e0cdb4fc45cf
 
+[![Project Demo Video](https://github.com/user-attachments/assets/4664d215-fd3e-4fbd-83a1-1230db0ccc73)](https://www.youtube.com/watch?v=GuH77WO9ZtQ)
+
 ## .env file
 ```
 OPENAI_API_KEY=<your-openai-api-key>
