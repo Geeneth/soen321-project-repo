@@ -1,5 +1,5 @@
 # PrivacyBrief ![SOEN 321 Smaller Logo](https://github.com/user-attachments/assets/a782bf81-13ec-4e1d-8f22-dbc0fd908a37)
-**Privacy Policies Made Easy...** *a soen 321 project*
+**Privacy Policies Made Easy | SOEN321 Project*
 
 https://github.com/user-attachments/assets/7cf12476-2a98-4069-bcdc-e0cdb4fc45cf
 
