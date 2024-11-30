@@ -1,9 +1,7 @@
 # PrivacyBrief ![SOEN 321 Smaller Logo](https://github.com/user-attachments/assets/a782bf81-13ec-4e1d-8f22-dbc0fd908a37)
 *Privacy Policies Made Easy | SOEN321 Project*
 
-https://github.com/user-attachments/assets/7cf12476-2a98-4069-bcdc-e0cdb4fc45cf
-
-[![Project Demo Video](https://github.com/user-attachments/assets/4664d215-fd3e-4fbd-83a1-1230db0ccc73)](https://www.youtube.com/watch?v=GuH77WO9ZtQ)
+[![Project Demo Video](https://github.com/user-attachments/assets/9f4f0111-a30d-4c2e-aa5a-b5054d2383df)](https://www.youtube.com/watch?v=GuH77WO9ZtQ)
 
 ## .env file
 ```
